@@ -1,0 +1,3 @@
+Lab7. Lab 7 was an assignment involving arrays and manipulating them through commands like ``.push()``, ``.pop()``, and ``splice()``.
+Lab6. This one originally just involved making arrays move a large amount of objects independently, but I got a little carried away with this one and ended up making a little game that's essentially Galaga + Asteroids.
+Lab4. I also got a little carried away with this one but less so; the assignment involved spawning a ball in a random spot and having it respawn when it touched a wall. I did this but I also wanted to make the ball bounce, so whenever it hits a wall it'll bounce and when it hits the floor or ceiling it will respawn in a random spot going in a random direction.
